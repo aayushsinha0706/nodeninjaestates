@@ -30,3 +30,7 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`
+
+## Video demonstration
+[![NODE NINJA ESTATES - REAL ESTAE ON BLOCKCHAIN](https://img.youtube.com/vi/W9X4XeTPc/0.jpg)](https://www.youtube.com/watch?v=b-W9X4XeTPc)
+
